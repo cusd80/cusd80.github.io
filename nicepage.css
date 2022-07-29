@@ -38355,10 +38355,10 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: 0px;
-  text-transform: uppercase;
   font-weight: 500;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: normal;
 }
 
 .u-footer .u-nav-2 {
@@ -38446,8 +38446,25 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 376px;
+  }
+
+  .u-footer .u-image-1 {
+    width: 123px;
+    height: 56px;
+    margin-top: 30px;
+  }
+
   .u-footer .u-text-1 {
-    margin-left: 90px;
+    width: auto;
+    margin-top: -72px;
+    margin-right: -50px;
+    margin-left: auto;
+  }
+
+  .u-footer .u-social-icons-1 {
+    margin-top: 125px;
   }
 }
 

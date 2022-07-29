@@ -43,8 +43,20 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 52.6% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
-    min-height: 269px;
+    min-height: 67px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 215px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: auto;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 397px;
@@ -64,8 +76,6 @@
 .u-section-2 .u-container-layout-1 {
   padding: 10px;
 }
-
-/* this is Mr. Jordan's image */
 
 .u-section-2 .u-image-1 {
   width: 115px;
@@ -95,8 +105,6 @@
   padding: 10px;
 }
 
-/* this is Brian's image CHANGE IT!!! */
-
 .u-section-2 .u-image-2 {
   width: 115px;
   height: 115px;
@@ -125,8 +133,6 @@
   padding: 10px;
 }
 
-/* this is Ryley's image */
-
 .u-section-2 .u-image-3 {
   width: 115px;
   height: 115px;
@@ -154,8 +160,6 @@
 .u-section-2 .u-container-layout-4 {
   padding: 10px;
 }
-
-/* this is Leo's image */
 
 .u-section-2 .u-image-4 {
   width: 115px;
