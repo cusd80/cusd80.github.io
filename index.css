@@ -7,12 +7,12 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  width: 1140px;
-  margin: 1px auto 0;
+  margin-top: 1px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-video-1 {
-  min-height: 669px;
+  min-height: 745px;
   background-image: none;
 }
 
@@ -22,7 +22,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 669px;
+  min-height: 745px;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -48,13 +48,19 @@
   margin: 20px 5px 0;
 }
 
+.u-section-1 .u-group-elements-1 {
+  width: 506px;
+  min-height: 281px;
+  margin: 28px auto 0 0;
+}
+
 .u-section-1 .u-text-2 {
   letter-spacing: normal;
   text-transform: none;
   font-family: Ubuntu, sans-serif;
   font-weight: normal;
   font-size: 3rem;
-  margin: 28px 43px 0 0;
+  margin: 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -68,7 +74,7 @@
 }
 
 .u-section-1 .u-text-3 {
-  margin: -77px 0 1px 1939px;
+  margin: -153px 0 1px 1939px;
 }
 
 @media (max-width: 1199px) {
@@ -76,21 +82,12 @@
     min-height: 469px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    width: 940px;
-  }
-
   .u-section-1 .u-video-1 {
-    min-height: 552px;
     background-position: 50% 50%;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 580px;
-  }
-
-  .u-section-1 .u-group-1 {
-    min-height: 121px;
+    min-height: 614px;
   }
 
   .u-section-1 .u-container-layout-3 {
@@ -104,12 +101,8 @@
     margin-top: 5px;
   }
 
-  .u-section-1 .u-text-2 {
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-btn-1 {
-    border-style: solid;
+  .u-section-1 .u-group-elements-1 {
+    width: 439px;
   }
 
   .u-section-1 .u-text-3 {
@@ -122,21 +115,13 @@
     min-height: 884px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    width: 720px;
-  }
-
-  .u-section-1 .u-video-1 {
-    min-height: 423px;
-  }
-
   .u-section-1 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 522px;
+    min-height: 100px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -153,8 +138,8 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-text-2 {
-    font-size: 2.25rem;
+  .u-section-1 .u-group-elements-1 {
+    width: 336px;
   }
 
   .u-section-1 .u-text-3 {
@@ -167,12 +152,7 @@
     min-height: 1560px;
   }
 
-  .u-section-1 .u-layout-wrap-1 {
-    width: 540px;
-  }
-
   .u-section-1 .u-video-1 {
-    min-height: 705px;
     order: 1;
   }
 
@@ -182,7 +162,6 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 554px;
     order: 0;
   }
 
@@ -195,10 +174,6 @@
     font-size: 3.75rem;
   }
 
-  .u-section-1 .u-text-2 {
-    font-size: 3rem;
-  }
-
   .u-section-1 .u-text-3 {
     margin-left: 1339px;
   }
@@ -206,20 +181,16 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1146px;
-  }
-
-  .u-section-1 .u-layout-wrap-1 {
-    width: 340px;
+    min-height: 1066px;
   }
 
   .u-section-1 .u-video-1 {
-    min-height: 444px;
+    min-height: 406px;
     background-position: 49.75% 50%;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 494px;
+    min-height: 556px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -231,8 +202,12 @@
     width: 320px;
   }
 
+  .u-section-1 .u-group-elements-1 {
+    width: 320px;
+  }
+
   .u-section-1 .u-text-2 {
-    font-size: 2.25rem;
+    font-size: 1.875rem;
   }
 
   .u-section-1 .u-text-3 {
@@ -888,7 +863,6 @@
 .u-section-4 .u-group-1 {
   width: 403px;
   min-height: 119px;
-  height: auto;
   margin: -65px 0 0 auto;
 }
 
@@ -921,7 +895,6 @@
   width: 403px;
   min-height: 119px;
   background-size: auto;
-  height: auto;
   margin: -65px 0 0 auto;
 }
 
@@ -954,7 +927,6 @@
   width: 403px;
   min-height: 119px;
   background-size: auto;
-  height: auto;
   margin: -65px 0 0 auto;
 }
 
@@ -1009,7 +981,6 @@
 
   .u-section-4 .u-group-1 {
     width: 363px;
-    height: auto;
   }
 
   .u-section-4 .u-container-layout-3 {
@@ -1022,7 +993,6 @@
 
   .u-section-4 .u-group-2 {
     width: 363px;
-    height: auto;
   }
 
   .u-section-4 .u-container-layout-5 {
@@ -1035,7 +1005,6 @@
 
   .u-section-4 .u-group-3 {
     width: 363px;
-    height: auto;
   }
 
   .u-section-4 .u-container-layout-7 {
