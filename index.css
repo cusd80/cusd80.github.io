@@ -265,7 +265,6 @@
   min-height: 231px;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
 }
 
 .u-section-2 .u-text-3 {
@@ -360,6 +359,10 @@
 
   .u-section-2 .u-layout-cell-1 {
     min-height: 247px;
+  }
+
+  .u-section-2 .u-group-elements-1 {
+    height: auto;
   }
 
   .u-section-2 .u-layout-cell-2 {
@@ -1202,7 +1205,7 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 4px;
-  background-image: none;
+  background-image: linear-gradient(45deg, #bb86fc, #fc6767);
   align-self: center;
   margin: 34px auto 0;
   padding: 10px 54px 10px 52px;
