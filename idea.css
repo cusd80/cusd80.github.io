@@ -32,6 +32,7 @@
 
   .u-section-1 .u-text-1 {
     margin-left: 0;
+    line-height: 1.0999999999999999;
   }
 
   .u-section-1 .u-text-2 {
@@ -63,11 +64,17 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 697px;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 3rem;
+    font-size: 2.25rem;
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 563px;
