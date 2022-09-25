@@ -1,0 +1,48 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Brian Lee
+N:Lee;Brian;;;
+item1.EMAIL;TYPE=INTERNET:s402102@gse.cusd80.com
+item1.X-ABLabel:
+item2.TEL:(480) 886-5323
+item2.X-ABLabel:
+item3.ORG:Hamilton High School
+item3.X-ABLabel:
+item4.TITLE:Co-President/Webmaster
+item4.X-ABLabel:
+NOTE:I don't know. 
+CATEGORIES:Engi_2022,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Leo Dayal
+N:Dayal;Leo;;;
+item1.EMAIL;TYPE=INTERNET:s395521@gse.cusd80.com
+item1.X-ABLabel:School
+TEL;TYPE=CELL:(602) 710-8720
+item2.ORG:Hamilton High School
+item2.X-ABLabel:
+item3.TITLE:Co-President
+item3.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/ABsqpls3MfqqAhrpV_m_piJMpy
+ TOJniqSTDeCIDZAvMnmtM-FduiOVtk
+CATEGORIES:Engi_2022,myContacts
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Ryley Hansen
+N:Hansen;Ryley;;;
+item1.EMAIL;TYPE=INTERNET:s413706@gse.cusd80.com
+item1.X-ABLabel:School
+TEL;TYPE=CELL:1 (602) 329-7282
+item2.ADR:;;14226 S 131st St;Gilbert;AZ;85233;US;14226 S 131st St\nGilbert
+ \, AZ 85233\nUS
+item2.X-ABLabel:
+item3.ORG:Hamilton High School
+item3.X-ABLabel:
+item4.TITLE:Co-President
+item4.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/ABsqpltoahNmCKwyUzU2Y1IfWA
+ hjaJxb0Y2m2rinx7KFT4VVBOeZBbq-
+CATEGORIES:Engi_2022,myContacts
+END:VCARD
