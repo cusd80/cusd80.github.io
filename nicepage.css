@@ -38548,6 +38548,11 @@ a.u-link.u-text-hover-grey-90:hover {
         
         
         
+        
+        
+        
+        
+        
         }
 
         /** common-rules **/
@@ -38586,7 +38591,7 @@ a.u-link.u-text-hover-grey-90:hover {
         text-transform: uppercase;
         list-icon-spacing: 0.3;
         list-icon-size: 0.8;
-        font-family: 'Titillium Web',sans-serif;
+        font-family: Oswald,sans-serif;
         }
         h3
         {
@@ -38702,6 +38707,11 @@ a.u-link.u-text-hover-grey-90:hover {
         h2:not(.u-subtitle)
         {
         font-size: 1.5rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        line-height: 1.1;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         }
         @media (max-width: 575px) {
@@ -38736,6 +38746,11 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-xs h2:not(.u-subtitle)
         {
         font-size: 1.5rem;
+        line-height: 1.1;
+        font-weight: 700;
+        text-transform: uppercase;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         .u-xs h3
         {
@@ -38856,18 +38871,19 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
   font-size: 1rem;
   text-transform: uppercase;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
   font-size: 1rem;
   letter-spacing: 0px;
 }
-@media (max-width: 1199px) {
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
+
+@media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    margin-top: 20px;
   }
 }
-
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: 102px;
@@ -38975,7 +38991,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 153px;
+    min-height: 178px;
   }
 
   .u-footer .u-image-1 {
@@ -38997,13 +39013,14 @@ a.u-link.u-text-hover-grey-90:hover {
     font-size: 0.875rem;
     letter-spacing: 0px;
     font-weight: 700;
-    margin-top: -109px;
+    margin-top: -138px;
     padding: 9px 22px;
   }
 
   .u-footer .u-social-icons-1 {
     margin-top: -31px;
     margin-bottom: 60px;
+    margin-left: 126px;
   }
 }
 
